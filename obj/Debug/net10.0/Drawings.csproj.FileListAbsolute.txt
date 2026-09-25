@@ -1,0 +1,14 @@
+c:\DSW\Drawings\bin\Debug\net10.0\Drawings.exe
+c:\DSW\Drawings\bin\Debug\net10.0\Drawings.deps.json
+c:\DSW\Drawings\bin\Debug\net10.0\Drawings.runtimeconfig.json
+c:\DSW\Drawings\bin\Debug\net10.0\Drawings.dll
+c:\DSW\Drawings\bin\Debug\net10.0\Drawings.pdb
+c:\DSW\Drawings\obj\Debug\net10.0\Drawings.GeneratedMSBuildEditorConfig.editorconfig
+c:\DSW\Drawings\obj\Debug\net10.0\Drawings.AssemblyInfoInputs.cache
+c:\DSW\Drawings\obj\Debug\net10.0\Drawings.AssemblyInfo.cs
+c:\DSW\Drawings\obj\Debug\net10.0\Drawings.csproj.CoreCompileInputs.cache
+c:\DSW\Drawings\obj\Debug\net10.0\Drawings.dll
+c:\DSW\Drawings\obj\Debug\net10.0\refint\Drawings.dll
+c:\DSW\Drawings\obj\Debug\net10.0\Drawings.pdb
+c:\DSW\Drawings\obj\Debug\net10.0\Drawings.genruntimeconfig.cache
+c:\DSW\Drawings\obj\Debug\net10.0\ref\Drawings.dll
